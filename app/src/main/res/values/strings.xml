@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculadora de Gorgeta ADS Fatec Carapicuiba</string>
+    <string name="enter_amount">Digite o valor consumido</string>
+    <string name="tip_percentage">15%</string>
+    <string name="tip">Tip</string>
+    <string name="total">Total</string>
+</resources>
